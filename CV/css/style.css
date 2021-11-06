@@ -1,0 +1,70 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+    background-image: url('../Images/header\ img.jfif');
+    background-size: cover;
+}
+
+h1{
+    background-color: #C4C4C4;
+    color: #005677;
+    text-align: center;
+    text-transform: uppercase;
+    text-size-adjust: 35px;
+    letter-spacing: 0.2cm;
+}
+
+#fotoCv{
+    margin-left: 20%;
+    margin-right: auto;
+    height: 13%;
+    width: 13%;
+}
+
+h3{
+    background-color: #C4C4C4;
+    color: #005677;
+    text-transform: uppercase;
+    text-size-adjust: 20px;
+    text-indent: 14px;
+}
+
+.negrilla{
+    font-weight: bold;
+}
+
+.cursiva{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.noBullets{
+    list-style: none;
+    text-indent: -17px;
+}
+
+.spacing{
+    padding-right: 15px;
+}
+
+.inlineBlock{
+    display: inline-block;
+}
+
+footer{
+    background-color: #005677;
+    text-align: center;
+    color: white;
+    height: 30px;
+}
+
+.white{
+    color: white;
+}
+
+.icono{
+    width: 30px;
+    height: 30px;
+}
